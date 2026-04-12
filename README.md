@@ -19,7 +19,7 @@
 > *Goal: Build REST APIs with confidence and understand Spring Boot internals*
 
 ### Core Concepts
-- [ ] Inversion of Control (IoC) and Dependency Injection
+- [x] Inversion of Control (IoC) and Dependency Injection
 - [ ] Spring Bean Lifecycle and Scopes (Singleton, Prototype, Request, Session)
 - [ ] ApplicationContext vs BeanFactory
 - [ ] Configuration Styles (XML, Annotation-based, Java Config)
