@@ -20,7 +20,7 @@
 
 ### Core Concepts
 - [x] Inversion of Control (IoC) and Dependency Injection
-- [ ] Spring Bean Lifecycle and Scopes (Singleton, Prototype, Request, Session)
+- [x] Spring Bean Lifecycle and Scopes (Singleton, Prototype, Request, Session)
 - [ ] ApplicationContext vs BeanFactory
 - [ ] Configuration Styles (XML, Annotation-based, Java Config)
 - [ ] Spring Boot Auto-Configuration Mechanism
